@@ -1,0 +1,49 @@
+body {
+    width: 100%;
+    height: auto;
+    font-family: 'Satisfy';
+    letter-spacing: 3px;
+    margin: 20px 30px;
+    font-size: 1.8rem;
+    background-image: linear-gradient(orange, red);
+    border: 2px skyblue solid;
+}
+/* TITLE */
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+/* INTRO TEXT  */
+p {
+    margin-left: 40px;
+}
+/* TRIANGLE PICTURE */
+#triangleImage {
+    width: 20%;
+    height: auto;
+    border: 1px red solid;
+    margin-left: 300px;
+}
+/* TRIANGLE SUM IMAGE */
+#triangleSum {
+    width: 20%;
+    height: auto;
+    margin-left: 200px;
+    border: 2px red solid;
+    margin-bottom: 100px;
+}
+/* EXAMPLE 1 IMAGE */
+#exampleOne {
+    width: 15%;
+    height: auto;
+    border: 1px red solid;
+}
+footer {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Bilbo';
+    text-emphasis: bold;
+    color: skyblue;
+    text-shadow: 1px 1px 1px black;
+}
